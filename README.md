@@ -36,6 +36,7 @@ First and foremost, I love writing code. Ever since writing my first program in 
 
 <p align="left"> <a href="https://www.github.com/sosualfred" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sosu-alfred" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alfredsosu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCOCW2_hRkxjl4cUN4uYch-w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -45,3 +46,4 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <a href="http://www.github.com/sosualfred"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sosualfred&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 <a href="http://www.github.com/sosualfred"><img src="https://activity-graph.herokuapp.com/graph?username=sosualfred&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+-->
