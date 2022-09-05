@@ -16,7 +16,7 @@ First and foremost, I love writing code. Ever since writing my first program in 
 
 * 🌍  I'm based in Accra - Ghana
 * ✉️  You can contact me at [sosualfred@gmail.com](mailto:sosualfred@gmail.com)
-* 🚀  I'm currently working on [Edufund GH](http://edufundgh.org/)
+* 🚀  I'm currently working on [Edufund GH](http://edufundgh.org/), [Copianto AI](https://copianto.ai/), and [kraado](https://kraado.co/)
 * 🧠  I'm learning Native IOS(Swift UI), Android(Kotlin), Django
 
 ### Skills
