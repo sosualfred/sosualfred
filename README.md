@@ -1,8 +1,8 @@
 Hi 👋 My name is Sosu Alfred
 ============================
 
-👨🏾‍💻 Full-stack Developer & Mobile App Developer
--------------------------------------------
+👨🏾‍💻 Full-stack Developer & Mobile App Developer(Open to Opportunities)
+--------------------------------------------------------------------
 
 A passionate developer deploying end-to-end web and mobile app solutions that help businesses scale while saving time and cost over the past 6 years. 
 
